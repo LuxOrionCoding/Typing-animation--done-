@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+    background-color: #020017;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#main-text, #second-text {
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+
+.cycle-text {
+    font-weight: 800;
+    color: #881aef;
+}
+
+#start-cycle-btn {
+    width: 3rem;
+    margin-top: 4rem;
+    cursor: pointer;
+    transition: 250ms;
+}
+
+#start-cycle-btn:hover {
+    scale: 1.22;
+}
+
+#restart-cycle-btn {
+    margin-left: 1rem;
+    scale: .8;
+    cursor: pointer;
+    transition: 250ms;
+}
+
+#restart-cycle-btn:hover {
+    scale: 1;
+}
