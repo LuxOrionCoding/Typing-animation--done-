@@ -2,7 +2,7 @@
 
 A another javascript project from LuxOrionCoding. A project about a typing animation for website aesthetic purpose.
 
-## How to use
+## How to try
 
 1. First download `typing_animation.js` to your computer and put it to the desired folder.
 2. And put `import { setAnimation, playAnimation } from "path/to/typing_animation.js";` to your main javascript file to initialize.
