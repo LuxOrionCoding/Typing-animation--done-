@@ -1,6 +1,6 @@
 # Typing Animation
 
-A another javascript project from LuxOrionCoding. A project about a typing animation for website aesthetic purpose.
+A another javascript project from me. A project about a typing animation for website aesthetic purpose.
 
 ## How to try
 
