@@ -2,6 +2,8 @@
 
 A another javascript project from me. A project about a typing animation for website aesthetic purpose.
 
+https://github.com/user-attachments/assets/ca3d0329-3bea-4c2e-9b95-b5a05b9ffad2
+
 ## How to try
 
 1. First download `typing_animation.js` to your computer and put it to the desired folder.
